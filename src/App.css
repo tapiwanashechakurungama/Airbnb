@@ -1,0 +1,32 @@
+.vin{
+  width: 100%;
+
+  .text{
+    padding-left: 100px;
+    width: 47%;
+    margin-top: 30px;
+
+    h1{
+      font-size: 4rem;
+      font-weight: 800;
+    }
+    p{
+      font-size: 1.5rem;
+      font-weight: 300;
+    }
+  }
+}
+
+.images{
+  margin-top: 20px;
+}
+.banner-img{
+  width: 70%;
+}
+.bannerImg{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}

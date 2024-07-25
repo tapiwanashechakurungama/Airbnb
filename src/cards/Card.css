@@ -1,0 +1,38 @@
+.blog-preview {
+  margin: 0;
+}
+.blog-list {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 60px;
+}
+
+.star {
+  height: 14px;
+}
+
+.title {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  margin-top: 10px;
+}
+.img{
+    position: relative;
+    width: 235px;
+    height: 320px;
+    border-radius: 20px;
+}
+.online {
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 15px;
+    z-index: 2;
+    background: #FFFFFF;
+}
